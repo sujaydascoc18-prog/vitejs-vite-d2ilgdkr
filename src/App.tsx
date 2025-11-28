@@ -229,11 +229,11 @@ const TopBar = React.memo(function TopBar() {
             <span>+91 8420289520</span>
           </a>
           <a
-            href="mailto:support@rtsexpress.in"
+            href="mailto:support@rtsexpress.store"
             className="flex items-center hover:text-white transition-colors"
           >
             <Mail className="h-3.5 w-3.5 mr-2 text-red-600" />
-            <span>support@rtsexpress.in</span>
+            <span>support@rtsexpress.store</span>
           </a>
         </div>
         <div className="flex space-x-6 items-center">
