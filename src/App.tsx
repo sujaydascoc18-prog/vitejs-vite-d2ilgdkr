@@ -751,7 +751,7 @@ function RTSExpressApp() {
                   <Mail className="h-4 w-4 text-red-600" />
                 </div>
                 <span className="group-hover:text-slate-200 transition">
-                  support@rtsexpress.in
+                  support@rtsexpress.store
                 </span>
               </li>
             </ul>
